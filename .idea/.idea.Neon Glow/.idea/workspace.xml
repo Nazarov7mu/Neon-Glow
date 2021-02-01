@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2de2aa7-4f8b-4f75-8bbf-1c425cd781c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Neon Glow/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Neon Glow/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Neon Glow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Neon Glow/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ColorChanger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ColorChanger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/NeonShaderMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/NeonShaderMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PipelineAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PipelineAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene/Global Volume Profile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/Global Volume Profile.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +21,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/ColorChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mover.cs" />
       </list>
     </option>
   </component>
@@ -62,6 +67,7 @@
       <updated>1610692483108</updated>
       <workItem from="1610692485305" duration="2177000" />
       <workItem from="1610700395312" duration="389000" />
+      <workItem from="1611904347054" duration="576000" />
     </task>
     <servers />
   </component>
